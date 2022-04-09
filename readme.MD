@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivanand-vishwakarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanand-vishwakarma/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivanand-vishwakarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanand-vishwakarma/" height="30" width="40" /></a>
 <a href="https://medium.com/@shivavishwakarma7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivavishwakarma7781" height="30" width="40" /></a>
 </p>
 
