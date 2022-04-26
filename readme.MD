@@ -3,7 +3,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="40%"/> -->
 
-<img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="40%"/>
+<img align="right" alt="GIF" src="https://github.com/Shiva7781/Shiva7781/blob/main/animation_500_kxa883sd.gif" width="40%"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
