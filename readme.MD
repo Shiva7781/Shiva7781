@@ -8,12 +8,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently learning Full Stack Web Development and improving my Frontend skills with React.js
-<!-- - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Developer by profession.
-- 🌱 &nbsp; InfoSec Enthusiast. 
-- ✍️ &nbsp; Watching Anime and trying out latest design trends. 
-- ☕ &nbsp; `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'` -->
+- 🤔 &nbsp; Exploring new technologies and quick hacks.
+<!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
+<!-- - 💼 &nbsp; Developer by profession. -->
+<!-- - 🌱 &nbsp; InfoSec Enthusiast.  -->
+<!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
+- ☕ &nbsp; `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 
 <h3>🛠 Tech Stack</h3>
 
@@ -25,9 +25,9 @@
 
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+![shiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva7781&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shiva7781's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva7781&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shiva7781's Github Stats"> -->
 
 </br>
 
