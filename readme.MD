@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently Full Stack Web Development and improving my Frontend skills with React.js
+- 🔭 &nbsp; Currently lerning Full Stack Web Development and improving my Frontend skills with React.js
 <!-- - 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Developer by profession.
