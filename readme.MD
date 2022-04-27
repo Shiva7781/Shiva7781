@@ -1,7 +1,6 @@
 <!--
 ![Round Passport](https://user-images.githubusercontent.com/97456472/165469458-8fc0c5a9-7811-486a-ab3d-8f75c44e909f.png) -->
 
-##
 
 <h3 align="center"> <b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <b> Welcome to Shivanand Vishwakarma's profile!
@@ -17,7 +16,6 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
 
-##
 
 <b> 👨🏻‍💻 About Me
 <p>
