@@ -47,7 +47,6 @@
 
 <br>
 
-bnm,vbnm,. bnm,.b nm,.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva7781&theme=dark&text_color=ffffff&bg_coloe=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5D" alt="Shiva7781" /></p>
 
 <br>
