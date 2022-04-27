@@ -7,7 +7,6 @@
   <b> Welcome to Shivanand Vishwakarma's profile!
 </h3>
 
-<br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer; .Always+keen+to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -49,6 +48,7 @@
 ![shiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=ffffff&repo=convoychat&bg_color=0,000000,130F40)
 
 <br>
+
 bnm,vbnm,. bnm,.b nm,.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva7781&theme=dark&text_color=ffffff&bg_coloe=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5D" alt="Shiva7781" /></p>
 
