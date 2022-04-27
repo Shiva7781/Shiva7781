@@ -1,27 +1,27 @@
 <!--
 ![Round Passport](https://user-images.githubusercontent.com/97456472/165469458-8fc0c5a9-7811-486a-ab3d-8f75c44e909f.png) -->
 
-
-<h3 align="center"> <b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <b> Welcome to Shivanand Vishwakarma's profile!
+<h3 align="center">  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   Welcome to Shivanand Vishwakarma's profile!
 </h3>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer; .Always+keen+to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer; Always+keen+to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </p>
 
 <img align="right" alt="GIF" src="https://github.com/Shiva7781/Shiva7781/blob/main/animation_500_kxa883sd.gif" width="40%"/>
 
-
 <!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
+ 👨🏻‍💻 About Me
 
-
-<b> 👨🏻‍💻 About Me
 <p>
-- 🔭 Meticulous and motivated undergraduate student. I am an open-source enthusiast.
-- Currently learning Full Stack Web Development and improving my Frontend skills with React.js
-- Exploring new technologies and quick hacks.
+
+ - &nbsp; Meticulous and motivated undergraduate student. I am an open-source enthusiast.
+
+ - &nbsp; Currently learning Full Stack Web Development and improving my Frontend skills with React.js
+
+ - &nbsp; Exploring new technologies and quick hacks.
   <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
   <!-- - 💼 &nbsp; Developer by profession. -->
   <!-- - 🌱 &nbsp; InfoSec Enthusiast.  -->
