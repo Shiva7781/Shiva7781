@@ -18,7 +18,8 @@
 
 <!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
-👨🏻‍💻 About Me
+<br>
+## About Me
 
 <p>
 
@@ -33,6 +34,8 @@
   <!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
 -  ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 </p>
+
+<br>
 
 ## My Languages and 🛠 Tools
 
@@ -54,6 +57,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
+
 <br>
 
 ## Statistical Data :-
@@ -73,6 +77,8 @@
 <a href="https://medium.com/@shivavishwakarma7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivavishwakarma7781" height="30" width="40" /></a>
 <a href="mailto:shivavishwakarma7781@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<br>
 
 ## Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 
