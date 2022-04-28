@@ -41,12 +41,6 @@
 
 ## Statistical Data :-
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Shiva7781&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=ffffff&repo=convoychat&bg_color=0,000000,130F40&layout=compact"
-    alt="Shiva7781" 
-    bg_color=#808080/></p>
-<br>
-
 ![shiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=ffffff&repo=convoychat&bg_color=0,000000,130F40)
 
 <br>
