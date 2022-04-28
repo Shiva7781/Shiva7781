@@ -22,16 +22,16 @@
 
 <p>
 
-- &nbsp; Meticulous and motivated undergraduate student. I am an open-source enthusiast.
+- Meticulous and motivated undergraduate student. I am an open-source enthusiast.
 
-- &nbsp; Currently learning Full Stack Web Development and improving my Frontend skills with React.js
+- Currently learning Full Stack Web Development and improving my Frontend skills with React.js
 
-- &nbsp; Exploring new technologies and quick hacks.
+- Exploring new technologies and quick hacks.
   <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
   <!-- - 💼 &nbsp; Developer by profession. -->
   <!-- - 🌱 &nbsp; InfoSec Enthusiast.  -->
   <!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
-- ☕ &nbsp; `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
+-  ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 </p>
 
 ## My Languages and 🛠 Tools
