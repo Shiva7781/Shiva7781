@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer; Always+keen+to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer; Always+keen+to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22.gif"/>
   </h3>
   
   <br>
