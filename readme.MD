@@ -4,24 +4,26 @@
 ![Round Passport](https://user-images.githubusercontent.com/97456472/165469458-8fc0c5a9-7811-486a-ab3d-8f75c44e909f.png) -->
 <!--
 ![animation_500_kxa883sd](https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif) -->
+##
 
 <h1 align="center">  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    Welcome to Shivanand Vishwakarma's profile!
 </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="42%"/>
+<!-- 
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
-<!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
-<br>
 ## About Me
 
-<p>
+<p >
 
 - Meticulous and motivated undergraduate student. I am an open-source enthusiast.
 
@@ -34,8 +36,9 @@
   <!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
 -  ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 </p>
-
 <br>
+
+
 
 ## My Languages and 🛠 Tools
 
@@ -57,7 +60,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
-
+<br>
 <br>
 
 ## Statistical Data :-
