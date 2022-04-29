@@ -4,6 +4,9 @@
 ![Round Passport](https://user-images.githubusercontent.com/97456472/165469458-8fc0c5a9-7811-486a-ab3d-8f75c44e909f.png) -->
 <!--
 ![animation_500_kxa883sd](https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif) -->
+<!-- ![animation_500_l2k6oiqf](https://user-images.githubusercontent.com/97456472/165911756-e9d26795-b136-48fc-81dc-ddcbb489585e.gif) -->
+
+
 ##
 
 <h1 align="center">  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -16,7 +19,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%"/>
+<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%"/> -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165911756-e9d26795-b136-48fc-81dc-ddcbb489585e.gif" width="40%"/>
+
 <!-- 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
