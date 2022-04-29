@@ -20,7 +20,7 @@
 </p>
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%"/> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165911756-e9d26795-b136-48fc-81dc-ddcbb489585e.gif" width="33%"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165911756-e9d26795-b136-48fc-81dc-ddcbb489585e.gif" width="30%"/>
 
 <!-- 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
