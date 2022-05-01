@@ -80,7 +80,7 @@
 ## ✨GitHub Stats  : 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?userShiva7781&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva7781&theme=tokyonight" />
 </div>
 
 <br/>  
