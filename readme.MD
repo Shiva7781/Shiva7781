@@ -68,16 +68,22 @@
 </p>
 <br>
 <br>
-
+<!-- 
 ## Statistical Data :-
 
 ![shiva's Github Stats](https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=ffffff&repo=convoychat&bg_color=0,000000,130F40)
-
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva7781&theme=dark&text_color=ffffff&bg_coloe=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5D" alt="Shiva7781" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva7781&theme=dark&text_color=ffffff&bg_coloe=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5D" alt="Shiva7781" /></p>
 
-<br>
+
+## ✨GitHub Stats  : 
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Shiva7781&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?userShiva7781&theme=tokyonight" />
+</div>
+
+<br/>  
 
 ## 🤝🏻 Connect with Me
 
