@@ -29,7 +29,7 @@
 
 <div align="center">
 
-  <div width="40%">
+<!--   <div width="40%"> -->
     <p >
 
       - Meticulous and motivated undergraduate student. I am an open-source enthusiast.
@@ -43,12 +43,12 @@
       <!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
       -  ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
     </p>
-  </div>
+<!--   </div> -->
 
-  <div width="40%">
+<!--   <div width="40%"> -->
     <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%" />
 
-  </div>
+<!--   </div> -->
 </div>
 <br>
 
