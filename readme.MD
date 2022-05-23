@@ -27,7 +27,7 @@
 
 ## About Me
 
-<div align="center">
+<!-- <div align="center"> -->
 
   <p align="left">
 
@@ -45,7 +45,7 @@
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%" />
 
-</div>
+<!-- </div> -->
 <br>
 
 
