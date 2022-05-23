@@ -27,26 +27,21 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="40%"/> -->
 
 
+
 ## About Me
-
-<p >
-   
-   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%"/>
-
+<img align='right' alt="GIF" src="https://user-images.githubusercontent.com/97456472/165635162-b3f00f27-0355-4980-b4e0-58d03e997d91.gif" width="40%">
+I seek challenging opportunities where I can fully use my technical skills HTML, CSS, JavaScript and soft skills like leadership, effective problem solving, teamwork, time management for the success of the organization.
 
 - Meticulous and motivated undergraduate student. I am an open-source enthusiast.
-
 - Currently learning Full Stack Web Development and improving my Frontend skills with React.js
-
 - Exploring new technologies and quick hacks.
-  <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
-  <!-- - 💼 &nbsp; Developer by profession. -->
-  <!-- - 🌱 &nbsp; InfoSec Enthusiast.  -->
-  <!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
--  ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
-</p>
-<br>
+- ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
+<!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
+<!-- - 💼 &nbsp; Developer by profession. -->
+<!-- - 🌱 &nbsp; InfoSec Enthusiast.  -->
+<!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends.  -->
 
+ <br>
 
 
 ## My Languages and 🛠 Tools
