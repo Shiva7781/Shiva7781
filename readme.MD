@@ -32,7 +32,7 @@
 ## About Me
 
 - Meticulous and motivated undergraduate student. I am an open-source enthusiast.
-- Currently learning Full Stack Web Development and improving my Frontend skills with React.js
+- Currently learning Full Stack Web Development and improving my skills with MERN stack.
 - Exploring new technologies and quick hacks.
 - ☕ `mood == 'boosted' if coffee == 'perfectly brewed' else '!boosted'`
 <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
